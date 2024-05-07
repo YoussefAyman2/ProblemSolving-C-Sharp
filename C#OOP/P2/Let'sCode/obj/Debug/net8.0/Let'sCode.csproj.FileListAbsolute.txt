@@ -1,0 +1,14 @@
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\bin\Debug\net8.0\Let'sCode.exe
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\bin\Debug\net8.0\Let'sCode.deps.json
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\bin\Debug\net8.0\Let'sCode.runtimeconfig.json
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\bin\Debug\net8.0\Let'sCode.dll
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\bin\Debug\net8.0\Let'sCode.pdb
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\obj\Debug\net8.0\Let'sCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\obj\Debug\net8.0\Let'sCode.AssemblyInfoInputs.cache
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\obj\Debug\net8.0\Let'sCode.AssemblyInfo.cs
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\obj\Debug\net8.0\Let'sCode.csproj.CoreCompileInputs.cache
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\obj\Debug\net8.0\Let'sCode.dll
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\obj\Debug\net8.0\refint\Let'sCode.dll
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\obj\Debug\net8.0\Let'sCode.pdb
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\obj\Debug\net8.0\Let'sCode.genruntimeconfig.cache
+C:\Users\Youss\source\repos\Let'sCode\Let'sCode\obj\Debug\net8.0\ref\Let'sCode.dll
